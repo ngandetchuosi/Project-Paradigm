@@ -4,7 +4,7 @@ This is a simplistic redesign of a website.
 
 ## Description
 
-In this project, I will be using HTML and CSS, and possibly Javascript if needed, to redesign a website for illustration and practice purposes for myself.
+In this project, I will be redesigning a website for illustration and practice purposes for myself.
 
 ### Tools
 
@@ -16,14 +16,16 @@ In this project, I will be using HTML and CSS, and possibly Javascript if needed
 ### Executing program
 
 * The program was hosted and created on Replit
-* The Link for the program design currently is [Figma Design](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
-* The live program linkl is currently &#x2935; --->(needs to be updated)
+* The Link for the wireframe design is [Wireframe](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
+* The Link for the Mockup design is [Mockup](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1) --> (Needs to be updated)
+* The live program link will be on &#x2935; --->(needs to be updated)
 ```
 https://replit.com/@ngandetchuosi/Paradigm#index.html
 ```
 
 ### Future Revisions
 
+* If time permits, I would love to build the website on replit.com using HTML, CSS and Javascript
 * Redesigning the rest of the pages on the website.
 * Adding more design techniques and features
 * Adding a Mobile Version
