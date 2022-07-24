@@ -20,6 +20,15 @@ In this project, I will be using HTML and CSS, and possibly Javascript if needed
 https://replit.com/@ngandetchuosi/Paradigm#index.html
 ```
 
+### Future Revisions
+
+* Redesigning the rest of the pages on the website.
+* Adding more design techniques and features
+* Adding a Mobile Version
+* Making the website more responsive and accessible
+* Possibly redesigning logo
+* ETC...
+
 ## Authors 
 
 [Eryka Emilien](https://www.linkedin.com/in/eryka-emilien-tchuosi/)
