@@ -10,12 +10,14 @@ In this project, I will be using HTML and CSS, and possibly Javascript if needed
 
 * [Unsplash](https://unsplash.com/) -> For getting images
 * [Coolors](https://coolors.co/) -> For creating a palette
+* [Figma](https://www.figma.com/) -> For designing the site
 
 
 ### Executing program
 
 * The program was hosted and created on Replit
-* The Link for live program &#x2935; --->(needs to be updated)
+* The Link for the program design currently is [Figma Design](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
+* The live program linkl is currently &#x2935; --->(needs to be updated)
 ```
 https://replit.com/@ngandetchuosi/Paradigm#index.html
 ```
