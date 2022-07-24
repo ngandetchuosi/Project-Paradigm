@@ -1,6 +1,6 @@
 # Project-Paradigm
 
-This is a redesign of a website.
+This is a simplistic redesign of a website.
 
 ## Description
 
