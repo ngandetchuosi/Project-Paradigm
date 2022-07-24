@@ -6,11 +6,15 @@ This is a simplistic redesign of a website.
 
 In this project, I will be using HTML and CSS, and possibly Javascript if needed, to redesign a website for illustration and practice purposes for myself.
 
-## Getting Started
+### Tools
+
+* [Unsplash](https://unsplash.com/) -> For getting images
+* [Coolors](https://coolors.co/) -> For creating a palette
+
 
 ### Executing program
 
-* The program was hosted and created in Replit
+* The program was hosted and created on Replit
 * The Link for live program &#x2935; --->(needs to be updated)
 ```
 https://replit.com/@ngandetchuosi/Paradigm#index.html
