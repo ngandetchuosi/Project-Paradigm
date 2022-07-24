@@ -18,10 +18,7 @@ In this project, I will be redesigning a website for illustration and practice p
 * The program was hosted and created on Replit
 * The Link for the wireframe design is [Wireframe](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
 * The Link for the Mockup design is [Mockup](https://www.figma.com/file/lKBpw5TWCVl74a6uIrrBjL/Paradigm-Website-UI-Mockup?node-id=0%3A1)
-* The live program link will be on &#x2935; --->(needs to be updated)
-```
-https://replit.com/@ngandetchuosi/Paradigm#index.html
-```
+* The Link for the Live program is [Website](https://www.paradigmtesting.com/) --->(Needs to be updated! Live Website not made yet!)
 
 ### Future Revisions
 
