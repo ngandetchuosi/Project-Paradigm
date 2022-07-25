@@ -4,7 +4,7 @@ This is a simplistic redesign of a website.
 
 ## Description
 
-In this project, I will be redesigning a website for illustration and practice purposes for myself.
+In this project, I will be redesigning a website for illustration and practice purposes for myself. I will only be doing 3 website pages, so as to simplify the process, due to a time constraint.
 
 ### Tools
 
