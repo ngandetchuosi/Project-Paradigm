@@ -6,9 +6,7 @@ This is a simplistic redesign of a website.
 
 In this project, I will be redesigning a website for illustration and practice purposes for myself. I will only be doing 3 website pages, so as to simplify the process, due to a time constraint. I will be using the Figma software to complete this. My goal is to try and not use any widgets or plugins, so that I can properly practice and shape my skills. 
 
-'''
-(P.S. Dear future me, don't forget that figma can convert the designs to HTML and CSS, so no need to redo this with them, instead do another project with just HTML and CSS to properly practice.)
-'''
+>(P.S. Dear future me, don't forget that figma can convert the designs to HTML and CSS, so no need to redo this with them, instead do another project with just HTML and CSS to properly practice.)
 
 ### Tools
 
