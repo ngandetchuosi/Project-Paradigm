@@ -22,12 +22,11 @@ In this project, I will be redesigning a website for illustration and practice p
 
 ### Future Revisions
 
-* If time permits, I would love to build the website on replit.com using HTML, CSS and Javascript
+* If time permits, I would love to build the website on replit.com using HTML, CSS and Javascript or WordPress
 * Redesigning the rest of the pages on the website.
-* Adding more design techniques and features
+* Adding doing more research on the font and color
 * Adding a Mobile Version
 * Making the website more responsive and accessible
-* Possibly redesigning logo
 * ETC...
 
 ## Authors 
