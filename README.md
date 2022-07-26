@@ -18,7 +18,7 @@ In this project, I will be redesigning a website for illustration and practice p
 
 ### Executing program
 
-* The program was hosted and created on Replit
+* The design is hosted and created on Figma
 * The Link for the wireframe design is [Wireframe](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
 * The Link for the Mockup design is [Mockup](https://www.figma.com/file/lKBpw5TWCVl74a6uIrrBjL/Paradigm-Website-UI-Mockup?node-id=0%3A1)
 * The Link for the Prototype is [Website](https://www.figma.com/proto/lKBpw5TWCVl74a6uIrrBjL/Paradigm-Website-UI-Mockup?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1) --> Move using the slide arrows at the bottom.
