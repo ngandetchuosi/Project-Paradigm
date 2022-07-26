@@ -9,7 +9,7 @@ In this project, I will be redesigning a website for illustration and practice p
 ### Tools
 
 * [Unsplash](https://unsplash.com/) -> For getting images
-* [Coolors](https://coolors.co/) -> For creating a palette
+* [Image Color Picker](https://imagecolorpicker.com/) -> For creating a palette from Logo
 * [Figma](https://www.figma.com/) -> For designing the site
 
 
