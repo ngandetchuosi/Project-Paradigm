@@ -21,13 +21,16 @@ In this project, I will be redesigning a website for illustration and practice p
 * The program was hosted and created on Replit
 * The Link for the wireframe design is [Wireframe](https://www.figma.com/file/1PKvHvSDkLVFg63hrk8VPv/Paradigm-Website-UI?node-id=0%3A1)
 * The Link for the Mockup design is [Mockup](https://www.figma.com/file/lKBpw5TWCVl74a6uIrrBjL/Paradigm-Website-UI-Mockup?node-id=0%3A1)
-* The Link for the Live program is [Website](https://www.paradigmtesting.com/) --->(Needs to be updated! Live Website not made yet!)
+* The Link for the Prototype is [Website](https://www.figma.com/proto/lKBpw5TWCVl74a6uIrrBjL/Paradigm-Website-UI-Mockup?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1) --> Move using the slide arrows at the bottom.
+
+> **Note**
+> To anyone viewing this, please take note that as of now, this project is not completely done and there are a lot of design tweaks that need to be made, such as the box shadow, proportions, and just the size in general. I would appreciate it. Have a good day.
 
 ### Future Revisions
 
 * I would love to build the website on WordPress
 * Redesigning the rest of the pages on the website.
-* Adding doing more research on the font and color
+* Doing more research on the font and color
 * Adding a Mobile Version
 * Making the website more responsive and accessible
 * ETC...
