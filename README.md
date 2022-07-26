@@ -11,6 +11,7 @@ In this project, I will be redesigning a website for illustration and practice p
 * [Unsplash](https://unsplash.com/) -> For getting images
 * [Image Color Picker](https://imagecolorpicker.com/) -> For creating a palette from Logo
 * [Figma](https://www.figma.com/) -> For designing the site
+* [APCA Contrast Calculator](https://www.myndex.com/APCA/) -> For checking contrast
 
 
 ### Executing program
